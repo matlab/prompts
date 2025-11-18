@@ -1,6 +1,6 @@
 # Data Visualization
 
-Prompts for creating professional, high-performance visualizations in MATLAB with custom styling, animations, and optimized graphics.
+Prompts for creating visualizations in MATLAB with custom styling, animations, and optimized graphics.
 
 ## Prompts in this Category
 

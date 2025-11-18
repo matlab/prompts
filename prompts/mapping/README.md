@@ -31,7 +31,7 @@ The Mapping Toolbox provides algorithms and functions for transforming geographi
 
 ## Related Categories
 
-- [Data Science](../data-science/) - For statistical analysis of geospatial data
+- [Data Visualization](../data-visualization/) - For creating visualizations in MATLAB
 - [Image Processing and Computer Vision](../image-processing-and-computer-vision/) - For satellite imagery and remote sensing
 
 ## Contributing
