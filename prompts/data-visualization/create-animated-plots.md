@@ -388,7 +388,7 @@ end
 
 ## Performance Comparison
 
-❌ **Slow (recreates plot each frame):**
+**Slow (recreates plot each frame):**
 ```matlab
 for k = 1:1000
     plot(x, y);  % Recreates entire plot
@@ -396,7 +396,7 @@ for k = 1:1000
 end
 ```
 
-✅ **Fast (updates data only):**
+**Fast (updates data only):**
 ```matlab
 h = plot(NaN, NaN);
 for k = 1:1000

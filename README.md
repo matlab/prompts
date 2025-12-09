@@ -6,34 +6,34 @@ Prompts designed for use with MATLAB Copilot, GitHub Copilot, Claude Code, Curso
 
 ## Categories
 
-### 📝 [Live Scripts & Documentation](prompts/live-scripts-documentation/)
+### [Live Scripts & Documentation](prompts/live-scripts-documentation/)
 Create Live Scripts, generate documentation, and format MATLAB help text for functions and scripts.
 
-### 🔧 [Programming](prompts/programming/)
+### [Programming](prompts/programming/)
 Optimize performance, handle errors, validate inputs, and write clean, efficient MATLAB code.
 
-### 📈 [Data Visualization](prompts/data-visualization/)
+### [Data Visualization](prompts/data-visualization/)
 Create plots, charts, and publication-ready visualizations using MATLAB plotting functions.
 
-### 🎨 [App Building](prompts/app-building/)
+### [App Building](prompts/app-building/)
 Build interactive MATLAB apps with App Designer and programmatic UIs for desktop and web applications.
 
-### 🤖 [AI and Statistics](prompts/ai-and-statistics/)
+### [AI and Statistics](prompts/ai-and-statistics/)
 Build neural networks, perform statistical analysis, train machine learning models, and analyze data.
 
-### 📡 [Signal Processing](prompts/signal-processing/)
+### [Signal Processing](prompts/signal-processing/)
 Design filters, analyze spectra, process signals, and work with communications systems.
 
-### 🖼️ [Image Processing and Computer Vision](prompts/image-processing-and-computer-vision/)
+### [Image Processing and Computer Vision](prompts/image-processing-and-computer-vision/)
 Enhance images, detect features, segment objects, and process video streams.
 
-### 🗺️ [Mapping](prompts/mapping/)
+### [Mapping](prompts/mapping/)
 Create world maps, analyze geospatial data, and visualize geographic information with custom projections.
 
-### 🎮 [Control Systems](prompts/control-systems/)
+### [Control Systems](prompts/control-systems/)
 Design controllers, analyze stability, tune parameters, and simulate dynamic systems.
 
-### ⚙️ [Code Generation](prompts/code-generation/)
+### [Code Generation](prompts/code-generation/)
 Generate C/C++ code, create standalone applications, and deploy MATLAB algorithms to production.
 
 ## How to Use These Prompts

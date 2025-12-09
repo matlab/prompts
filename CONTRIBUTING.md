@@ -1,6 +1,6 @@
 # Contributing to Prompts for MATLAB
 
-Thank you for your interest in contributing! This guide will help you add your prompts to the collection.
+This guide explains how to add prompts to the collection.
 
 ## How to Contribute
 
@@ -23,7 +23,7 @@ Your prompt should be:
 
 ### What Makes a Good Prompt?
 
-✅ **Good prompts:**
+**Good prompts:**
 - Specify concrete requirements
 - Include example inputs/outputs
 - Mention MATLAB release requirements
@@ -31,7 +31,7 @@ Your prompt should be:
 - Provide usage examples
 - Explain expected results
 
-❌ **Avoid:**
+**Avoid:**
 - Vague or ambiguous requests
 - Overly complex multi-step prompts (break them down)
 - Prompts requiring specific proprietary data
@@ -224,4 +224,4 @@ By contributing, you agree to license your contributions under the CC-BY-4.0 lic
 
 ---
 
-Thank you for helping make this collection awesome! 🎉
+We appreciate your contributions.
