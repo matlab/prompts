@@ -18,6 +18,7 @@ Desktop.ini
 .settings/
 .claude/
 .claude_settings
+AGENTS.md
 
 # Temporary Files
 *.tmp
