@@ -36,6 +36,9 @@ Design controllers, analyze stability, tune parameters, and simulate dynamic sys
 ### [Code Generation](prompts/code-generation/)
 Generate C/C++ code, create standalone applications, and deploy MATLAB algorithms to production.
 
+### [Hardware Connectivity](prompts/hardware-connectivity/)
+Connect to hardware, configure and control hardware, acquire data, and generate waveforms using MATLAB hardware interfaces.
+
 ## How to Use These Prompts
 
 1. **Browse** the categories above to find a prompt that matches your task
