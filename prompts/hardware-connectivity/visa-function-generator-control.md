@@ -1,7 +1,7 @@
 ---
 title: Control Function Generator Using VISA Interface
 description: Generate MATLAB code to control function generators using the visadev interface with SCPI commands
-tags: [matlab, instrument, visa, function-generator, keysight, rohde-schwarz, scpi, instrument-control]
+tags: [matlab, instrument, visa, function-generator, keysight, rohde-schwarz, scpi, instrument-control-toolbox]
 release: R2021a+
 notes:
 ---
@@ -12,7 +12,7 @@ Generate MATLAB code to control function generators using the `visadev` interfac
 
 ## Metadata
 
-- **Tags:** `matlab` `instrument` `visa` `function-generator` `keysight` `rohde-schwarz` `scpi` `instrument-control`
+- **Tags:** `matlab` `instrument` `visa` `function-generator` `keysight` `rohde-schwarz` `scpi` `instrument-control-toolbox`
 - **MATLAB Release:** R2021a+
 - **Required Toolboxes:** Instrument Control Toolbox™
 

@@ -1,7 +1,7 @@
 ---
 title: RF Signal Generator Workflow
 description: Connect, configure, and generate IQ waveforms using Quick-Control RF Signal Generator (rfsiggen)
-tags: [matlab, instrument, rf-instrument, signal-generator, keysight, rohde-schwarz, quick-control, rfsiggen]
+tags: [matlab, instrument, rf-instrument, signal-generator, keysight, rohde-schwarz, quick-control, rfsiggen, instrument-control-toolbox]
 release: R2017b+
 notes:
 ---
@@ -12,7 +12,7 @@ Connect, configure, and generate IQ waveforms using the Quick-Control RF Signal 
 
 ## Metadata
 
-- **Tags:** `matlab` `instrument` `rf-instrument` `signal-generator` `keysight` `rohde-schwarz` `quick-control` `rfsiggen`
+- **Tags:** `matlab` `instrument` `rf-instrument` `signal-generator` `keysight` `rohde-schwarz` `quick-control` `rfsiggen` `instrument-control-toolbox`
 - **MATLAB Release:** R2017b+
 - **Required Toolboxes:** Instrument Control Toolbox™
 
